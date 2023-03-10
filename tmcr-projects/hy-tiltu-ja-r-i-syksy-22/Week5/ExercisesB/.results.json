@@ -1,0 +1,97 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "corsepal2 is numeric vector with length 3",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'corsepal2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "corpetal2 is numeric vector with length 3",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'corpetal2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first element of corsepal2 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'corsepal2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first element of corpetal2 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'corpetal2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "mystate.x77 is a data frame",
+            "message": "Error in `is.data.frame(mystate.x77)`: object 'mystate.x77' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first element of mystate.x77$Murder2 is correct",
+            "message": "Error in `is.factor(mystate.x77$Murder2[1])`: object 'mystate.x77' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first element of mystate.x77$LifeExp2 is correct",
+            "message": "Error in `is.factor(mystate.x77$LifeExp2[1])`: object 'mystate.x77' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first element in the second row of tab1 is correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'tab1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

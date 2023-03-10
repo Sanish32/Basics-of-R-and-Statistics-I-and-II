@@ -1,0 +1,86 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "signtest(x=1:5, m=2) returns correct value",
+            "message": "Error in `expect_equivalent(signtest(x = 1:5, m = 2), 0.625, tolerance = 0.001, \n    scale = 1)`: could not find function \"expect_equivalent\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "signtest(x=1:3, m=2) returns correct value",
+            "message": "Error in `expect_equivalent(signtest(x = 1:3, m = 2), 1)`: could not find function \"expect_equivalent\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "signtest2(x=1:5, y=c(1, 1, 2, 8, 3)) returns correct value",
+            "message": "Error in `expect_equivalent(signtest2(x = 1:5, y = c(1, 1, 2, 8, 3)), 0.625, \n    tolerance = 0.001, scale = 1)`: could not find function \"expect_equivalent\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "signtest2(x=1:3, y=3:1) returns correct value",
+            "message": "Error in `expect_equivalent(signtest2(x = 1:3, y = 3:1), 1)`: could not find function \"expect_equivalent\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "rank_sum(x=c(2, 4, 5), y=c(1, 3, 6)) returns correct value",
+            "message": "Error in `expect_equivalent(rank_sum(x = c(2, 4, 5), y = c(1, 3, 6))[[1]], \n    11)`: could not find function \"expect_equivalent\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "rank_sum(x=1:3, y=2:4) returns correct value",
+            "message": "Error in `expect_equivalent(rank_sum(x = 1:3, y = 2:4)[[1]], 8)`: could not find function \"expect_equivalent\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "permtest(1:10) returns correct value correct",
+            "message": "Error in `expect_equivalent(permtest(1:10), 0.001349898, tolerance = 1e-07, \n    scale = 1)`: could not find function \"expect_equivalent\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

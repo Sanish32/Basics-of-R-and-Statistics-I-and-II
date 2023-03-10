@@ -1,0 +1,97 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "coop2 has correct number of rows",
+            "message": "Error in `nrow(coop2)`: object 'coop2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a1 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a2 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "b1 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'b1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "b2 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'b2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "c1 is approximately correct",
+            "message": "Error in `sort(c1)`: object 'c1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "c2 is approximately correct",
+            "message": "Error in `sort(c2)`: object 'c2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "one_way_anova(m=2, n=10, sample_means=c(1, 1.5), sample_vars=c(0.2, 1)) returns correct value",
+            "message": "Error in `one_way_anova(m = 2, n = 10, sample_means = c(1, 1.5), sample_vars = c(0.2, \n    1))`: could not find function \"one_way_anova\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

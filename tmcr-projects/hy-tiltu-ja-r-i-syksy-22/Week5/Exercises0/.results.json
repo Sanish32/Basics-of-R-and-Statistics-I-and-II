@@ -1,0 +1,64 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "x3 is factor with correct levels",
+            "message": "Error in `is.factor(x3)`: object 'x3' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "x3 is correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'x3' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "x3 is a column in 'dat'",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'dat' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a1 is correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "tab1 is correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'tab1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,174 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "the first three elements of x are correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'x' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first three elements of y are correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'y' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a1 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a2 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a3 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a3' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a4 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a4' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "protest(x1=1, x2=2, n1=3, n2=4) returns correct value",
+            "message": "Error in `protest(x1 = 1, x2 = 2, n1 = 3, n2 = 4)`: could not find function \"protest\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "protest2(x1=1, x2=2, n1=3, n2=4, alpha=0.05) returns correct value",
+            "message": "Error in `protest2(x1 = 1, x2 = 2, n1 = 3, n2 = 4, alpha = 0.05)`: could not find function \"protest2\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first three values of anorexia2$Prewt_kg are correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'anorexia2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first three values of anorexia2$Postwt_kg are correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'anorexia2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "meanvals1 is approximately correct",
+            "message": "Error in `sort(meanvals1)`: object 'meanvals1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "pvals1 is approximately correct",
+            "message": "Error in `sort(pvals1)`: object 'pvals1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "meanvals2 is approximately correct",
+            "message": "Error in `sort(meanvals2)`: object 'meanvals2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "pvals2 is approximately correct",
+            "message": "Error in `sort(pvals2)`: object 'pvals2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "pvals3 is approximately correct",
+            "message": "Error in `sort(pvals3)`: object 'pvals3' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,119 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "the first three elements of Identifier are correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'Identifier' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first three elements of Brand are correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'Brand' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first three elements of Year are correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'Year' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first three elements of Inspected are correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'Inspected' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "cartable is a data frame",
+            "message": "Error in `is.data.frame(cartable)`: object 'cartable' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the type of cartable$Identifier and cartable$Brand is character",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'cartable' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "subswiss1 has the correct number of rows",
+            "message": "Error in `nrow(subswiss1)`: object 'subswiss1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "n1 is in the correct range",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'n1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "subswiss2 has the correct number of rows",
+            "message": "Error in `nrow(subswiss2)`: object 'subswiss2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "subswiss3 has the correct number of rows",
+            "message": "Error in `nrow(subswiss3)`: object 'subswiss3' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

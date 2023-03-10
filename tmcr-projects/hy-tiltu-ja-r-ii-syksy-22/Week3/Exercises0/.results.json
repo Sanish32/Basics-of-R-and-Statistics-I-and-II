@@ -1,0 +1,20 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "fit$coefficients is correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'fit' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

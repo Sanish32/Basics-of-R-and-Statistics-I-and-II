@@ -1,0 +1,64 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "pow is a function",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'pow' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "pow is has correct arguments",
+            "message": "Error in `formals(pow)`: object 'pow' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "pow returns correct values",
+            "message": "Error in `pow(a = 2, b = 3)`: could not find function \"pow\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "exercise 2a is solved correctly",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "exercise 2b is solved correctly",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,64 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "exercise 1a is solved correctly",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "exercise 1b is solved correctly",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "exercise 1c is solved correctly",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'b1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "NA",
+            "message": "Error in `is.factor(x)`: object 'b1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "NA",
+            "message": "Error in `eval(code, test_env)`: object 'A' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

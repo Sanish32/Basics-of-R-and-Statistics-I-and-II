@@ -1,0 +1,108 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "fit1$coefficients is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'fit1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a1 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "fit2$coefficients is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'fit2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a2 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a3 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a3' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "fit3$coefficients is approximately correct",
+            "message": "Error in `sort(fit3$coefficients)`: object 'fit3' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "b1 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'b1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "b2 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'b2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "b3 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'b3' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

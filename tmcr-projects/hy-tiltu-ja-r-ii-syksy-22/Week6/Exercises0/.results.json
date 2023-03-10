@@ -1,0 +1,42 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "pass",
+            "name": "x2 is correct",
+            "message": "",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "pass",
+            "name": "a1 is correct",
+            "message": "",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "pass",
+            "name": "a2 is correct",
+            "message": "",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+

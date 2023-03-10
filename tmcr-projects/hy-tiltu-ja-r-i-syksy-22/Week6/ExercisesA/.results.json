@@ -1,0 +1,108 @@
+{
+    "runStatus": "success",
+    "backtrace": [
+
+    ],
+    "testResults": [
+        {
+            "status": "fail",
+            "name": "a1 is in the correct range",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a2 is in the correct range",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "a3 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'a3' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "b1 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'b1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "b2 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'b2' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "b3 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'b3' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "the first row of Yints is correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'Yints' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "c1 is approximately correct",
+            "message": "Error in `eval_bare(expr, quo_get_env(quo))`: object 'c1' not found",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        },
+        {
+            "status": "fail",
+            "name": "mytest(x=c(1, 0.6, 0.8), mu0=1) returns correct value",
+            "message": "Error in `mytest(x = c(1, 0.6, 0.8), mu0 = 1)`: could not find function \"mytest\"",
+            "backtrace": [
+
+            ],
+            "points": [
+
+            ]
+        }
+    ]
+}
+
